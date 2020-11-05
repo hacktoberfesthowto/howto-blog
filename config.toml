@@ -46,9 +46,9 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
-    subtitle = "A simple, retro theme for Hugo"
-    owner = ""
+    title = "Hacktoberfest HOWTO"
+    subtitle = "A community-created HOWTO for navigating Hacktoberfest"
+    owner = "Ross Larson"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
@@ -58,7 +58,7 @@ paginate = 5
     missingBackButtonLabel = "Back to home page"
 
     [languages.en.params.logo]
-      logoText = "Terminal"
+      logoText = "Hacktoberfest HOWTO"
       logoHomeLink = "/"
 
     [languages.en.menu]
