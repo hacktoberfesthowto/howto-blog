@@ -3,4 +3,4 @@
 # HOWTO blog
 Hugo blog template for Hacktoberfest HOWTO
 
-This site uses the [Hugo Terminal Theme](https://github.com/panr/hugo-theme-terminal) and uses a GitHub action to auto-deploy the site to GitHub pages, at [hacktoberfesthowto.github.io](https://hacktoberfesthowto.github.io/)
+This site uses the [Hugo Terminal Theme](https://github.com/panr/hugo-theme-terminal) and uses a GitHub Action to auto-deploy the site to GitHub pages, at [hacktoberfesthowto.github.io](https://hacktoberfesthowto.github.io/)
