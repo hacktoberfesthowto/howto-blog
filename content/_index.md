@@ -117,7 +117,6 @@ Thanks for choosing to work on open source code.  You may be motivated by person
 
 ## Looking for issues:
 There are a variety of places to look for new issues, but they aren't always friendly.
-* [IssueHub](http://issuehub.io)
 * [Awesome for Beginners](https://github.com/mungell/awesome-for-beginners)
 * [Up For Grabs](https://up-for-grabs.net/#/)
 
