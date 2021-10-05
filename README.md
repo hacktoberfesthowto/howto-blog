@@ -1,5 +1,7 @@
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/hacktoberfesthowto/howto-blog)
 
+[![Deploy to GitHub Pages](https://github.com/hacktoberfesthowto/howto-blog/actions/workflows/push.yml/badge.svg)](https://github.com/hacktoberfesthowto/howto-blog/actions/workflows/push.yml)
+
 # HOWTO blog
 Hugo blog template for Hacktoberfest HOWTO
 
