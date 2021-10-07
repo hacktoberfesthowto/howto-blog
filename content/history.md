@@ -18,7 +18,7 @@ I'm no expert, but I've been able to collect images from the internet starting f
 
 ## 2015
 
-{{< figure src="/images/2015Logo.png" width="1000" >}}
+{{< figure src="/images/2015Logo.webp" width="1000" >}}
 
 {{< figure src="/images/2015Shirt3.png" width="1000" >}}
 
