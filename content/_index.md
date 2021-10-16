@@ -16,9 +16,10 @@ This repo contains tips for two sets of folks:
 * Repo owners that create issues and handle incoming pull requests
 * Hacktoberfest participants that want to use the allure of a comfy free t-shirt to try out contributing to open source.
 
-## Hacktoberfest is now opt-in.  Make sure you have opted in.
+## Hacktoberfest is now opt-in and is on both GitHub and GitLab.  Make sure you have opted in.
 PRs for Hacktoberfest count if:
 
+- The PR is on either GitHub or GitLab AND
 - Submitted during the month of October AND
 - Submitted in a public repo AND
     + The PR is labelled as `hacktoberfest-accepted` by a maintainer OR
