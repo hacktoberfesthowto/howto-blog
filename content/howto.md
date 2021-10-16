@@ -6,11 +6,12 @@ draft: false
 
 
 
-## Hacktoberfest is now opt-in.  Make sure you have opted in.
+## Hacktoberfest is now opt-in and on GitHub and GitLab.  Make sure you have opted in.
 PRs for Hacktoberfest count if:
 
 - Submitted during the month of October AND
 - Submitted in a public repo AND
+    + The PR is on either GitHub or GitLab AND
     + The PR is labelled as `hacktoberfest-accepted` by a maintainer OR
     + Submitted in a repo with the `hacktoberfest` topic AND
       - The PR is merged OR
