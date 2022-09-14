@@ -7,7 +7,7 @@ date: 2021-09-15T20:34:52Z
 
 ### Hello world!
 
-This site exists to help you make the most of `Hacktoberfest`, which typically occurs on GitHub during the month of October. Information for the current year is typically available on the [Hacktoberfest website](https://hacktoberfest.digitalocean.com/).
+This site exists to help you make the most of `Hacktoberfest`, which typically occurs on GitHub during the month of October. Information for the current year is typically available on the [Hacktoberfest website](https://hacktoberfest.com/).
 
 # Hacktoberfest: A HOWTO
 Here are some best practices for creating issues that encourage people to give useful PRs in response. Because Hacktoberfest is a unique time of year that brings new folks to open source repositories, take special care to minimize confusion and frustration.
