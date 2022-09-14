@@ -56,6 +56,6 @@ I'm no expert, but I've been able to collect images from the internet starting f
 
 {{< figure src="/images/2021Logo.webp" width="1000" >}}
 
-{{< figure src="/images/image1.jpg" width="1000" >}}
+{{< figure src="/images/2021Shirt.jpg" width="1000" >}}
 
-{{< figure src="/images/image2.jpg" width="1000" >}}
+{{< figure src="/images/2021Swag.jpg" width="1000" >}}
