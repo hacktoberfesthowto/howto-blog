@@ -11,7 +11,7 @@ jobs:
     steps:
     - uses: actions/checkout@main
     - name: hugo-deploy-gh-pages
-      uses: khanhicetea/gh-actions-hugo-deploy-gh-pages@master
+      uses: zo0o0ot/gh-actions-hugo-deploy-gh-pages@master
       env:
         GITHUB_REMOTE_REPOSITORY: "hacktoberfesthowto/hacktoberfesthowto.github.io"
         GITHUB_BRANCH: main
