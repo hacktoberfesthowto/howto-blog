@@ -46,7 +46,7 @@ You can do the normal user story stuff here. Example: As a _someone_, I want _a 
 ### When it's useful to do so, include screenshots or images.
 GitHub makes it really easy to add images to your issues, and a picture can be very descriptive, so consider using a screenshot to help explain what you're looking for.
 
-Gifs and diagrams can be very helpful, too! You can use free software like [LICEcap](https://www.cockos.com/licecap/) to make these relatively easily.
+Gifs and diagrams can be very helpful, too! You can use free software like [LICEcap](https://www.cockos.com/licecap/) or [ScreenToGif](https://www.screentogif.com/) to make these relatively easily.
 ![example](https://user-images.githubusercontent.com/876146/88444298-20834c00-cde2-11ea-822f-960329388719.gif)
 
 
