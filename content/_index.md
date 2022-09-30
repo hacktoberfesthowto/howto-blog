@@ -112,21 +112,9 @@ Do you want something included in your pull requests? Create a template, and you
 * If you want it to be in a hidden directory, make it in .github/pull_request_template.md
 * To create multiple pull request templates, get ready to read some more documentation, as that seems to be a bit more complicated. 
 
-# Advice for Hackertoberfest First Timers and Noobs:
-## Welcome!
-Thanks for choosing to work on open source code.  You may be motivated by personal development, a career in programming, or a really comfy t-shirt.  All of these are valid reasons. There are other reasons too, including "because I felt like it", and that's OK, too.
-
-## Looking for issues:
-There are a variety of places to look for new issues, but they aren't always friendly.
-* [Awesome for Beginners](https://github.com/mungell/awesome-for-beginners)
-* [Up For Grabs](https://up-for-grabs.net/#/)
-
-### Looking for additional swag?
-Some companies will post additional swag opportunities, but you may have to work a little bit extra to get those benefits.
-A good place to look for places that are offering additional stuff is the [Hacktoberfest Swag List](https://hacktoberfestswaglist.com/).  Feel free to check that out if you're feeling adventurous.
-
-
-It can be useful to define what level of commitment you're looking to make in picking up an issue.
+* [Good First Issue](https://goodfirstissue.dev)
+* Still looking for your first PR,here have a look at this website [First Contribution](https://www.firsttimersonly.com/) that explains how to commit your first pull request. 
+* It can be useful to define what level of commitment you're looking to make in picking up an issue.
 Possible places you spend time working on an issue include:
 * Reading the issue itself
 * Understanding what the heck they want.
