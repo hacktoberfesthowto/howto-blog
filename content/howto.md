@@ -110,6 +110,9 @@ Thanks for choosing to work on open source code.  You may be motivated by person
 There are a variety of places to look for new issues, but they aren't always friendly.
 * [Awesome for Beginners](https://github.com/mungell/awesome-for-beginners)
 * [Up For Grabs](https://up-for-grabs.net/#/)
+* [Up For First Timer and Noobs](https://www.firsttimersonly.com/)
+* [Good First Issues](https://goodfirstissues.com/)
+* [Good First Issues](https://goodfirstissue.dev/)
 
 ### Looking for additional swag?
 Some companies will post additional swag opportunities, but you may have to work a little bit extra to get those benefits.
