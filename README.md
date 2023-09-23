@@ -31,3 +31,4 @@ Option 2: Make the change directly in GitHub.
 - Go to the file you want to edit. Click the pen to edit the file, or press"." to open Visual Studio Code inside the web browser.
 - Make the needed or desired changes.
 - Commit the changes and create a pull request.
+- Have a respectful code review and hopefully the changes get merged!
