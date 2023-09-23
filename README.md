@@ -30,4 +30,4 @@ Option 2: Make the change directly in GitHub.
 - Make a fork of this repo to your local user.
 - Go to the file you want to edit. Click the pen to edit the file, or press"." to open Visual Studio Code inside the web browser.
 - Make the needed or desired changes.
-- Commit the changes and create a pull request.  
+- Commit the changes and create a pull request.
