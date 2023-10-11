@@ -124,7 +124,7 @@ There are a variety of places to look for new issues, but they aren't always fri
 * [Good First Issues](https://goodfirstissues.com/)
 * [Good First Issues](https://goodfirstissue.dev/)
 
-We are also looking for contributors for this website. Please check out our [repositry](https://github.com/hacktoberfesthowto/howto-blog).
+We are also looking for contributors for this website. Please check out our [repository](https://github.com/hacktoberfesthowto/howto-blog).
 ### Looking for additional swag?
 Some companies will post additional swag opportunities, but you may have to work a little bit extra to get those benefits.
 A good place to look for places that are offering additional stuff is the [Hacktoberfest Swag List](https://hacktoberfestswaglist.com/).  Feel free to check that out if you're feeling adventurous.
