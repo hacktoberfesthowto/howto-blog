@@ -63,10 +63,14 @@ paginate = 5
 
     [languages.en.menu]
       [[languages.en.menu.main]]
+        identifier = "contributors"
+        name = "HOWTO - Contributors"
+        url = "/howto-contributors"
+      [[languages.en.menu.main]]
         identifier = "showcase"
-        name = "HOWTO"
-        url = "/howto"
+        name = "HOWTO - Maintainers"
+        url = "/howto-maintainers"
       [[languages.en.menu.main]]
         identifier = "history"
-        name = "History"
+        name = "Swag History"
         url = "/history"
