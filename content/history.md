@@ -68,7 +68,7 @@ I'm no expert, but I've been able to collect images from the internet starting f
 
 {{< figure src="/images/2022Shirt2.jpg" width="1000" >}}
 
-## 2022
+## 2023
 
 # Why isn’t there a t-shirt this year?
 
