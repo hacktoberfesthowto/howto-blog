@@ -69,13 +69,21 @@ I'm no expert, but I've been able to collect images from the internet starting f
 {{< figure src="/images/2022Shirt2.jpg" width="1000" >}}
 
 ## 2023
+{{< figure src="/images/2023logo-horizontal.svg" width="1000" >}}
+
+{{< figure src="/images/2023logo.svg" width="1000" >}}
 
 # No shirt.
 # Why isn’t there a t-shirt this year? 
-# Good question!  Here is the response from the official Hacktoberfest page (originally posted at https://hacktoberfest.com/participation/#faq):
+# Good question!  Here is the response from the official Hacktoberfest page (originally posted at [https://hacktoberfest.com/participation/#faq](https://web.archive.org/web/20231009172722/https://hacktoberfest.com/participation/#faq)):
 
 > As Hacktoberfest has grown, so have the logistical challenges associated with creating a reward. Unfortunately, it’s no longer feasible for us to provide a free t-shirt. Nevertheless, we still want participants to have a memorable experience and receive a special memento marking their participation and the year.
 >
 > **Instead of a t-shirt reward**, we’re partnering with Holopin and our sponsors to provide digital rewards, making global delivery much simpler. We believe this shift will allow Hacktoberfest to continue supporting and raising awareness for open-source projects worldwide for years to come.
 >
 > Visit our [Tree-Nation profile](https://tree-nation.com/profile/hacktoberfest) to learn more.
+
+## 2024
+{{< figure src="/images/2024logo.png" width="1000" >}}
+
+# No shirt.
