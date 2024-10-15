@@ -17,5 +17,5 @@ This repo contains tips for two sets of folks:
 * Hacktoberfest participants that want to use the allure of a comfy free t-shirt to try out contributing to open source.
 
 
-# [HOWTO - Contributors](/howto-contributors.md)
-# [HOWTO - Maintainers](/howto-maintainers.md)
+# [HOWTO - Contributors](https://github.com/hacktoberfesthowto/howto-blog/blob/main/content/howto-contributors.md)
+# [HOWTO - Maintainers](https://github.com/hacktoberfesthowto/howto-blog/blob/main/content/howto-maintainers.md)
