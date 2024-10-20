@@ -29,8 +29,7 @@ PR/MRs that the Hacktoberfest system detects as spammy will also not be counted.
 PR/MRs that also have the “hacktoberfest-accepted” label cannot be marked as spammy via a label.
 PR/MRs that have been merged and do not have a label containing the word “invalid” cannot be marked as spammy via a label.
 -->
-
-Any user with two or more spammy PR/MRs will be disqualified.
+Any user with two or more spammy PR/MRs will be disqualified from Hacktoberfest.
 
 ### Looking for additional swag?
 Some companies will post additional swag opportunities, but you may have to work a little bit extra to get those benefits.
