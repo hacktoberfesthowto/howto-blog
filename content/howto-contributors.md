@@ -16,6 +16,21 @@ There are a variety of places to look for new issues, but they aren't always fri
 * [Good First Issues](https://goodfirstissues.com/)
 * [Good First Issues](https://goodfirstissue.dev/)
 
+## Spam
+Your pull/merge requests must not be spammy. For example:
+- Automated PR/MRs: scripted opening pull requests to remove whitespace, fix typos or optimize images.
+- Disruptive PR/MRs: taking someone else’s branch/commits and making a pull request.
+- Anything that a project maintainer flags as spam.
+- Anything that looks like an attempt to duplicate your pull request count for October.
+- Multiple PR/MRs for the same issue that are unnecessary - for example five PR/MRs to remove a stray whitespace.
+PR/MRs that are labeled with a label containing the word “spam” by maintainers will not be counted towards Hacktoberfest.
+PR/MRs that the Hacktoberfest system detects as spammy will also not be counted. (It uses the Node.js RegEx engine with `/\bspam\b/i` to look for spam labels.)
+<!-- **The information below is more for maintainers than contributors**
+PR/MRs that also have the “hacktoberfest-accepted” label cannot be marked as spammy via a label.
+PR/MRs that have been merged and do not have a label containing the word “invalid” cannot be marked as spammy via a label.
+-->
+Any user with two or more spammy PR/MRs will be disqualified from Hacktoberfest.
+
 ### Looking for additional swag?
 Some companies will post additional swag opportunities, but you may have to work a little bit extra to get those benefits.
 A good place to look for places that are offering additional stuff is the [Hacktoberfest Swag List](https://hacktoberfestswaglist.com/).  Feel free to check that out if you're feeling adventurous.

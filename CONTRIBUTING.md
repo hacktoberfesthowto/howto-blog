@@ -21,3 +21,18 @@ Option 2: Make the change directly in GitHub.
 - Go to the file you want to edit. Click the pen to edit the file, or press"." to open Visual Studio Code inside the web browser.
 - Make the needed or desired changes.
 - Commit the changes and create a pull request.
+
+Please note:
+Your pull/merge requests must not be spammy. For example:
+- Automated PR/MRs: scripted opening pull requests to remove whitespace, fix typos or optimize images.
+- Disruptive PR/MRs: taking someone else’s branch/commits and making a pull request.
+- Anything that a project maintainer flags as spam.
+- Anything that looks like an attempt to duplicate your pull request count for October.
+- Multiple PR/MRs for the same issue that are unnecessary - for example five PR/MRs to remove a stray whitespace.
+PR/MRs that are labeled with a label containing the word “spam” by maintainers will not be counted towards Hacktoberfest.
+PR/MRs that the Hacktoberfest system detects as spammy will also not be counted. (It uses the Node.js RegEx engine with `/\bspam\b/i` to look for spam labels.)
+<!-- **The information below is more for maintainers than contributors**
+PR/MRs that also have the “hacktoberfest-accepted” label cannot be marked as spammy via a label.
+PR/MRs that have been merged and do not have a label containing the word “invalid” cannot be marked as spammy via a label.
+-->
+Any user with two or more spammy PR/MRs will be disqualified from Hacktoberfest.
