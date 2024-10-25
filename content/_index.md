@@ -14,7 +14,7 @@ Here are some best practices for creating issues that encourage people to give u
 
 This repo contains tips for two sets of folks: 
 * Repo owners that create issues and handle incoming pull requests
-* Hacktoberfest participants that want to use the allure of a comfy free t-shirt to try out contributing to open source.
+* Hacktoberfest participants that want to use the allure of an evolving digital badge to try out contributing to open source.
 
 
 # [HOWTO - Contributors](/howto-contributors)

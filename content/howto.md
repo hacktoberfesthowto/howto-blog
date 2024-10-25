@@ -29,7 +29,7 @@ _A first-time contributor may have some of these characteristics:_
 * They have zero to many years of experience in this programming language.
 * They may have previously worked on projects alone or in very small groups, always starting from the beginning of the project.
 * They have limited free time, and are using Hacktoberfest as a trial run in spending free time working on open source code.
-* They like free t-shirts and stickers.
+* They like a free digital badge that unlocks a new level and customization of the badge with each of their accepted pull/merge requests.
 
 Keeping aware of these characteristics, we want to have as little friction as possible between creating an issue, having a stranger read that issue, decide to work on the project, bring down your repo and get it to run, make the needed changes, and put in a pull request, have their code reviewed, and get those changes accepted.
 
@@ -104,7 +104,7 @@ Do you want something included in your pull requests? Create a template, and you
 
 # Advice for Hackertoberfest First Timers and Noobs:
 ## Welcome!
-Thanks for choosing to work on open source code.  You may be motivated by personal development, a career in programming, or a really comfy t-shirt.  All of these are valid reasons. There are other reasons too, including "because I felt like it", and that's OK, too.
+Thanks for choosing to work on open source code.  You may be motivated by personal development, a career in programming, or a really awesome customized digital badge.  All of these are valid reasons. There are other reasons too, including "because I felt like it", and that's OK, too.
 
 ## Looking for issues:
 There are a variety of places to look for new issues, but they aren't always friendly.
