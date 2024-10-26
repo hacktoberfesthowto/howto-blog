@@ -6,7 +6,7 @@ draft: false
 
 # Advice for Hackertoberfest First Timers and Noobs:
 ## Welcome!
-Thanks for choosing to work on open source code.  You may be motivated by personal development, a career in programming, or a really comfy t-shirt.  All of these are valid reasons. There are other reasons too, including "because I felt like it", and that's OK, too.
+Thanks for choosing to work on open source code.  You may be motivated by personal development, a career in programming, or a really awesome customized digital badge.  All of these are valid reasons. There are other reasons too, including "because I felt like it", and that's OK, too.
 
 ## Looking for issues:
 There are a variety of places to look for new issues, but they aren't always friendly.
