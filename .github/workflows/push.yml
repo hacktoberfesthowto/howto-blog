@@ -9,11 +9,24 @@ jobs:
   hugo-deploy-gh-pages:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@main
-    - name: hugo-deploy-gh-pages
-      uses: zo0o0ot/gh-actions-hugo-deploy-gh-pages@master
-      env:
-        GITHUB_REMOTE_REPOSITORY: "hacktoberfesthowto/hacktoberfesthowto.github.io"
-        GITHUB_BRANCH: main
-        GIT_DEPLOY_KEY: ${{ secrets.HACKTOBER_DEPLOY }}
-        HUGO_VERSION: "0.149.0"
+    - uses: actions/checkout@v4
+      with:
+        submodules: recursive
+        fetch-depth: 0
+    
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v3
+      with:
+        hugo-version: '0.149.0'
+        extended: true
+    
+    - name: Build site
+      run: hugo --minify
+    
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v4
+      with:
+        external_repository: hacktoberfesthowto/hacktoberfesthowto.github.io
+        publish_branch: main
+        publish_dir: ./public
+        deploy_key: ${{ secrets.HACKTOBER_DEPLOY }}
