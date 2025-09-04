@@ -1,0 +1,182 @@
+@import url("https://fonts.googleapis.com/css2?family=Fira+Code&family=Fira+Code:wght@400;700&display=swap");
+
+:root {
+  --background: #0f1419;
+  --foreground: #bfbdb6;
+  --accent: #39d353;
+  --font-size: 1rem;
+  --line-height: 1.54rem;
+  --radius: 0px;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Fira Code", monospace;
+  font-size: var(--font-size);
+  line-height: var(--line-height);
+  color: var(--foreground);
+  background-color: var(--background);
+  overflow-wrap: break-word;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: var(--accent);
+  margin-bottom: 1rem;
+  font-weight: 700;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+h2 {
+  font-size: 1.75rem;
+}
+
+h3 {
+  font-size: 1.5rem;
+}
+
+h4 {
+  font-size: 1.25rem;
+}
+
+h5 {
+  font-size: 1.125rem;
+}
+
+h6 {
+  font-size: 1rem;
+}
+
+p {
+  margin-bottom: 1rem;
+}
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+code {
+  background-color: rgba(255, 255, 255, 0.1);
+  padding: 0.2rem 0.4rem;
+  border-radius: var(--radius);
+  font-family: "Fira Code", monospace;
+  font-size: 0.9rem;
+}
+
+pre {
+  background-color: rgba(255, 255, 255, 0.05);
+  padding: 1rem;
+  border-radius: var(--radius);
+  overflow-x: auto;
+  margin-bottom: 1rem;
+}
+
+pre code {
+  background-color: transparent;
+  padding: 0;
+}
+
+blockquote {
+  border-left: 4px solid var(--accent);
+  padding-left: 1rem;
+  margin: 1rem 0;
+  font-style: italic;
+}
+
+ul,
+ol {
+  margin-bottom: 1rem;
+  padding-left: 2rem;
+}
+
+li {
+  margin-bottom: 0.5rem;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 1rem;
+}
+
+th,
+td {
+  border: 1px solid var(--accent);
+  padding: 0.5rem;
+  text-align: left;
+}
+
+th {
+  background-color: rgba(255, 255, 255, 0.1);
+  font-weight: 700;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: var(--radius);
+}
+
+hr {
+  border: none;
+  border-top: 1px solid var(--accent);
+  margin: 2rem 0;
+}
+
+button,
+input[type="submit"] {
+  background-color: var(--accent);
+  color: var(--background);
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: var(--radius);
+  cursor: pointer;
+  font-family: "Fira Code", monospace;
+}
+
+button:hover,
+input[type="submit"]:hover {
+  opacity: 0.8;
+}
+
+input,
+textarea,
+select {
+  background-color: rgba(255, 255, 255, 0.1);
+  color: var(--foreground);
+  border: 1px solid var(--accent);
+  padding: 0.5rem;
+  border-radius: var(--radius);
+  font-family: "Fira Code", monospace;
+}
+
+input:focus,
+textarea:focus,
+select:focus {
+  outline: none;
+  border-color: var(--accent);
+  box-shadow: 0 0 0 2px rgba(88, 166, 255, 0.3);
+}

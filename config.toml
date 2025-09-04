@@ -10,8 +10,8 @@ pagerSize = 5
   # the list of set content will show up on your index page (baseurl).
   contentTypeName = "posts"
 
-  # ["orange", "blue", "red", "green", "pink"]
-  themeColor = "green"
+  # Theme colors are now controlled by static/terminal.css
+  # See https://panr.github.io/terminal-css/ to generate custom color schemes
 
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 2
