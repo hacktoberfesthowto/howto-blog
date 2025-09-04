@@ -451,5 +451,21 @@ The Hacktoberfest HOWTO Blog represents a **well-engineered, community-focused p
 
 ---
 
+## Update Log
+
+### September 4, 2025 - Theme Migration Back to Original
+- **Issue Resolved**: [#50](https://github.com/hacktoberfesthowto/howto-blog/issues/50) - Terminal theme migration
+- **Changes Made**:
+  - Updated `.gitmodules` to point back to original `panr/hugo-theme-terminal` repository
+  - Migrated theme submodule from fork to original (now un-archived)
+  - Updated CI/CD pipeline to use `benmatselby/hugo-deploy-gh-pages@main` with Hugo Extended support
+  - Removed pinned Hugo version (0.85.0) to use latest version automatically
+  - Added `HUGO_EXTENDED: true` for theme compatibility
+- **Benefits**: Access to latest theme features, bug fixes, and community updates
+- **Compatibility**: Verified with Hugo v0.148.0 Extended
+
+---
+
 *Review completed: September 2, 2025*  
+*Updated: September 4, 2025*  
 *Reviewer: Ona - Software Engineering Agent*

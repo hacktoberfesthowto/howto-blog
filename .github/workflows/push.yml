@@ -11,9 +11,9 @@ jobs:
     steps:
     - uses: actions/checkout@main
     - name: hugo-deploy-gh-pages
-      uses: zo0o0ot/gh-actions-hugo-deploy-gh-pages@master
+      uses: benmatselby/hugo-deploy-gh-pages@main
       env:
         GITHUB_REMOTE_REPOSITORY: "hacktoberfesthowto/hacktoberfesthowto.github.io"
         GITHUB_BRANCH: main
         GIT_DEPLOY_KEY: ${{ secrets.HACKTOBER_DEPLOY }}
-        HUGO_VERSION: "0.85.0"
+        HUGO_EXTENDED: true
