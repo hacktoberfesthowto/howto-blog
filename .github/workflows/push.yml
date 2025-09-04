@@ -13,7 +13,7 @@ jobs:
     - name: hugo-deploy-gh-pages
       uses: benmatselby/hugo-deploy-gh-pages@main
       env:
-        GITHUB_REMOTE_REPOSITORY: "hacktoberfesthowto/hacktoberfesthowto.github.io"
-        GITHUB_BRANCH: main
-        GIT_DEPLOY_KEY: ${{ secrets.HACKTOBER_DEPLOY }}
+        TARGET_REPO: "hacktoberfesthowto/hacktoberfesthowto.github.io"
+        TARGET_BRANCH: main
+        TOKEN: ${{ secrets.HACKTOBER_DEPLOY }}
         HUGO_EXTENDED: true
