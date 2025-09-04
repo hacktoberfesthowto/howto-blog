@@ -1,9 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Fira+Code&family=Fira+Code:wght@400;700&display=swap");
 
 :root {
-  --background: #0f1419;
-  --foreground: #bfbdb6;
-  --accent: #39d353;
+  --background: #0a0e1a;
+  --foreground: #e1e8f0;
+  --accent: #4fc3f7;
   --font-size: 1rem;
   --line-height: 1.54rem;
   --radius: 0px;
@@ -79,19 +79,21 @@ a:hover {
 }
 
 code {
-  background-color: rgba(255, 255, 255, 0.1);
+  background-color: rgba(79, 195, 247, 0.15);
   padding: 0.2rem 0.4rem;
   border-radius: var(--radius);
   font-family: "Fira Code", monospace;
   font-size: 0.9rem;
+  color: #81d4fa;
 }
 
 pre {
-  background-color: rgba(255, 255, 255, 0.05);
+  background-color: rgba(79, 195, 247, 0.08);
   padding: 1rem;
   border-radius: var(--radius);
   overflow-x: auto;
   margin-bottom: 1rem;
+  border: 1px solid rgba(79, 195, 247, 0.2);
 }
 
 pre code {
@@ -104,6 +106,9 @@ blockquote {
   padding-left: 1rem;
   margin: 1rem 0;
   font-style: italic;
+  background-color: rgba(79, 195, 247, 0.05);
+  padding: 1rem;
+  border-radius: var(--radius);
 }
 
 ul,
@@ -130,8 +135,9 @@ td {
 }
 
 th {
-  background-color: rgba(255, 255, 255, 0.1);
+  background-color: rgba(79, 195, 247, 0.2);
   font-weight: 700;
+  color: var(--accent);
 }
 
 img {
@@ -165,7 +171,7 @@ input[type="submit"]:hover {
 input,
 textarea,
 select {
-  background-color: rgba(255, 255, 255, 0.1);
+  background-color: rgba(79, 195, 247, 0.1);
   color: var(--foreground);
   border: 1px solid var(--accent);
   padding: 0.5rem;
@@ -178,5 +184,6 @@ textarea:focus,
 select:focus {
   outline: none;
   border-color: var(--accent);
-  box-shadow: 0 0 0 2px rgba(88, 166, 255, 0.3);
+  box-shadow: 0 0 0 2px rgba(79, 195, 247, 0.4);
+  background-color: rgba(79, 195, 247, 0.15);
 }
