@@ -1,4 +1,4 @@
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/hacktoberfesthowto/howto-blog)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/hacktoberfesthowto/howto-blog)
 
 [![Deploy to GitHub Pages](https://github.com/hacktoberfesthowto/howto-blog/actions/workflows/push.yml/badge.svg)](https://github.com/hacktoberfesthowto/howto-blog/actions/workflows/push.yml)
 
@@ -10,19 +10,22 @@ This site uses the [Hugo Terminal Theme](https://github.com/panr/hugo-theme-term
 
 # HOW TO CONTRIBUTE:
 This repo is the source code for a static site, written using [Hugo](https://gohugo.io/) and Markdown.
-Instead of installing the framework, I set up the repo to run in [Gitpod](https://www.gitpod.io/).
+You can contribute without installing anything locally by using GitHub Codespaces.
 
 What you'll want to do:
 
-Option 1: Make your change inside of Gitpod and preview the changes
+Option 1: Make your change using GitHub Codespaces and preview the changes
 
 - Make a fork of this repo to your local user.
-- Sign up for a free Gitpod account at [gitpod.io](https://gitpod.io/).  You can use your GitHub user to sign in.
-- Open your fork in Gitpod (it may be useful to install the Gitpod extension for your browser for this).
--- The URL to open will look something like https://gitpod.io/#https://github.com/yourusername/howto-blog
-![image](https://user-images.githubusercontent.com/876146/190049603-7805307f-eba5-4c9b-85e5-7103a633fb69.png)
-- Make the needed or desired changes.
-- You should be able to see a preview of this inside of Gitpod.
+- Open your fork in GitHub Codespaces by clicking the "Code" button, then "Codespaces" tab, then "Create codespace on main".
+  - Alternatively, click the badge at the top of this README for a quick start.
+- Wait for the development environment to set up (Hugo will be installed automatically).
+- Run `hugodev` in the terminal to start the development server (this is a preconfigured alias)
+- Make the needed or desired changes to the Markdown files.
+- Preview your changes in the browser (Codespaces will prompt you to open the preview).
+
+<img width="1912" height="921" alt="codespaces-hugodev" src="https://github.com/user-attachments/assets/e3d9b460-bcc9-4dc0-80bf-b30672243a28" />
+
 - Commit the changes and create a pull request.
 
 
