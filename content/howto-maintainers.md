@@ -98,4 +98,9 @@ Do you want something included in your pull requests? Create a template, and you
 [Github has some good documentation about it](https://docs.github.com/en/free-pro-team@latest/github/building-a-strong-community/creating-a-pull-request-template-for-your-repository), but there are a few rules of thumb.
 * If you want the template to be easily viewable, make it in pull_request_template.md or docs/pull_request_template.md
 * If you want it to be in a hidden directory, make it in .github/pull_request_template.md
-* To create multiple pull request templates, get ready to read some more documentation, as that seems to be a bit more complicated. 
+* To create multiple pull request templates, get ready to read some more documentation, as that seems to be a bit more complicated.
+
+#### Low Code and Non-Code contributions.
+Do you accept low code and non-code contributions? Things like documentation, translating text, or transcribing video content.
+
+The contributors will need to add links to their content in a PR/MR so HacktoberFest can track it. You could have an issue for low code with a file to add the links. You will need to include the process in the README. Here's a great description of the process. [Giving non-code contributions the recognition they deserve](https://dev.to/adiatiayu/giving-non-code-contributions-the-recognition-they-deserve-2phj) 

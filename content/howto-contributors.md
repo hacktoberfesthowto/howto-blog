@@ -58,3 +58,20 @@ Depending on the level of programming experience you have, it might be good to s
 
 ## You can do this!
 Remember, contributing to open source should be fun and fulfilling, so if you're discouraged, take a break.  Go and take a walk, play a game, or interact with people you care about, and come back to it when you're feeling recharged and motivated.
+
+## Low Code or Non-Code Contributions.
+
+Projects need more than code. Project maintainers may need documentation, tutorials, or testing. Great documentation helps people install and use software. Tutorials teach them how to use it. Testing makes sure it works. Check a project's issues to see if they need any of these. 
+
+### Low Code
+Writing documentation is a low code way to add to a project. It's low code cause while you may not touch the code, you need to understand it enough to describe what a user needs to do to use the program. Writing documentation is also a great way to learn about something.
+
+You may also write tests or do some quality assurance work for a project.
+
+### Non-Code
+Some options for non-code include translating text, transcribing videos, writing blogs or social media posts.
+
+Low code or non-code contributions may need a special PR/MR issue to be be accepted for HacktoberFest. If you do tutorials or blogging, the maintainer will need an issue or file. Then you can share the with content link in a PR/MR. This process will be described in the project's Contributing.md.
+
+* [Contribute to Open Source without Knowing How to Code](https://dev.to/opensauced/how-to-contribute-to-open-source-without-knowing-how-to-code-a-guide-with-project-suggestions-59e5)
+* [Giving non-code contributions the recognition they deserve](https://dev.to/adiatiayu/giving-non-code-contributions-the-recognition-they-deserve-2phj) 
