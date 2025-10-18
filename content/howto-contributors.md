@@ -71,7 +71,7 @@ You may also write tests or do some quality assurance work for a project.
 ### Non-Code
 Some options for non-code include translating text, transcribing videos, writing blogs or social media posts.
 
-Low code or non-code contributions may need a special PR/MR request to be be accepted for HacktoberFest. If you do tutorials or blogging, you may need to add a file with a link to the content. This process will be described in the project's Contributing.md.
+Low code or non-code contributions may need a special PR/MR issue to be be accepted for HacktoberFest. If you do tutorials or blogging, the maintainer will need an issue or file. Then you can share the with content link in a PR/MR. This process will be described in the project's Contributing.md.
 
 * [Contribute to Open Source without Knowing How to Code](https://dev.to/opensauced/how-to-contribute-to-open-source-without-knowing-how-to-code-a-guide-with-project-suggestions-59e5)
 * [Giving non-code contributions the recognition they deserve](https://dev.to/adiatiayu/giving-non-code-contributions-the-recognition-they-deserve-2phj) 
