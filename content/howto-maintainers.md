@@ -101,6 +101,6 @@ Do you want something included in your pull requests? Create a template, and you
 * To create multiple pull request templates, get ready to read some more documentation, as that seems to be a bit more complicated.
 
 #### Low Code and Non-Code contributions.
-Do you accept low code and non-code contributions? Things like documentation, translating text, or transcribing video content.
+Do you accept low code and non-code contributions? Things that count as low-code or non-code are things like documentation, translating text, or transcribing video content.
 
-The contributors will need to add links to their content in a PR/MR so HacktoberFest can track it. You could have an issue for low code with a file to add the links. You will need to include the process in the README. Here's a great description of the process. [Giving non-code contributions the recognition they deserve](https://dev.to/adiatiayu/giving-non-code-contributions-the-recognition-they-deserve-2phj) 
+If you want the contributor to get credit during Hacktoberfest, the contributors will need to add links to their content in a PR/MR so Hacktoberfest can track it. You could have an issue for low code with a file to add the links. You will need to include the process in the README.md or CONTRIBUTING.md files. Here's a great description of the process: [Giving non-code contributions the recognition they deserve](https://dev.to/adiatiayu/giving-non-code-contributions-the-recognition-they-deserve-2phj)
