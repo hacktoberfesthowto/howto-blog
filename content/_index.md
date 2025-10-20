@@ -19,3 +19,4 @@ This repo contains tips for two sets of folks:
 
 # [HOWTO - Contributors](/howto-contributors)
 # [HOWTO - Maintainers](/howto-maintainers)
+# [HOWTO - AI Guidance](/howto-ai)

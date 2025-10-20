@@ -73,7 +73,7 @@ pagerSize = 5
         name = "HOWTO - Maintainers"
         url = "/howto-maintainers"
       [[languages.en.menu.main]]
-        identifier = "showcase"
+        identifier = "AI"
         name = "HOWTO - AI"
         url = "/howto-ai"
       [[languages.en.menu.main]]

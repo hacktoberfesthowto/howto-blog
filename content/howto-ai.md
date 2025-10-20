@@ -1,7 +1,7 @@
 ---
 title: "HOWTO- AI"
 date: 
-draft: true
+draft: false
 ---
 
 # Introduction
